@@ -3,7 +3,7 @@
  * EJERCICIO:
  * ¡La temporada 2 de "Los Anillos de Poder" está a punto de estrenarse! 
  * ¿Qué pasaría si tuvieras que encargarte de repartir los anillos
- * entre las razas de la Tierra Media?
+ * entre todas las razas de la Tierra Media?
  * Desarrolla un programa que se encargue de distribuirlos.
  * Requisitos:
  * 1. Los Elfos recibirán un número impar.
